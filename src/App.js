@@ -45,8 +45,8 @@ function App() {
 
         <div className={`quote-wrapper ${showQuote ? 'visible' : ''}`}>
           <p className="motivational-quote">
-            Anju, first of all All the very best for your exams.<br />
-            I know you will do great, ani kahi tension nako gheu, jate paper chan.
+            Anju, first of all All the very best for your exams.♥️<br />
+            I know you will do great, ani kahi tension nako gheu, jate paper chan.😌
           </p>
         </div>
 
